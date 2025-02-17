@@ -1,10 +1,10 @@
 # CONDUILT V2
 
-Description: Build a new user interface with apis already built
+**Description**: Build a new user interface with apis already built
 
-APIs: https://node-express-conduit.appspot.com/#/
+**APIs**: https://node-express-conduit.appspot.com/#/
 
-Tech Stack:
+**Tech Stack:**
 
 - HTML, CSS
 - JavaScript (React)
